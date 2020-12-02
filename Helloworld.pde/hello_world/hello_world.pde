@@ -15,7 +15,7 @@ double wayBack = 0.0;
 print("\n" + name + phrase, highest_number );
 //
 // Pick a number and create formulae
-println("\nCounting with Formulae, exemplars using Baker's Dozen and I like pizza"); //Baker's Dozen,  Double Baker's Dozen,  Double Baker's Dozen & One More
+println("\nCounting with Formulae, exemplars using Kurosh Rezania burger's and I like pizzas"); //Baker's Dozen,  Double Baker's Dozen,  Double Baker's Dozen & One More
 println("Starting Variable is", highest_number); //Returns 24\
 evenHigher = highest_number+=1048; //Returns Baker's Dozen
 println("Assignment Example, as formula:", highest_number+=13); //Returns 2xBaker's Dozen
